@@ -25,3 +25,5 @@ C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICTPRG502 - ASDS - Test 1 Student 
 C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICTPRG502 - ASDS - Test 1 Student Files_old\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.CoreCompileInputs.cache
 C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICTPRG502 - ASDS - Test 1 Student Files_old\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 C:\TAFESA\2021_S1\QES_ICT20\ICT449GIT\Student\ICTPRG502 - ASDS - Test 1 Student Files_old\Test 1 - Student Files\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\Users\jacob\OneDrive\Desktop\GIT Test\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\Users\jacob\OneDrive\Desktop\GIT Test\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
